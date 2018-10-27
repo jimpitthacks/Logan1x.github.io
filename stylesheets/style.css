@@ -71,6 +71,19 @@ body {
     border-radius: 5px 5px 0px 0px;
 }
 
+#bottom_bar {
+    text-align: left;
+    max-width: 1050px;
+	width:100%;
+    height: 25px;
+    background-color: #DAD9D9;
+    margin: 0 auto;
+    font-family: monospace;
+	padding:0px;
+    border-radius: 0px 0px 5px 5px;
+}
+
+
 #red {
     background-color: #E94B35;
     border-radius: 100%;
@@ -111,7 +124,7 @@ body {
     background-color: #545650;
 	width:100%;
 	max-width:1048px;
-	height:110%;
+	height:146%;
     border-radius: 0px 0px 5px 5px;
     padding: 1px;
 	overflow-y:scroll;
